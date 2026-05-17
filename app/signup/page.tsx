@@ -21,7 +21,6 @@ function mapError(msg: string): string {
   if (msg.includes('User already registered') || msg.includes('already registered')) return 'שם המשתמש כבר בשימוש'
   if (msg.includes('Password should be at least') || msg.includes('password')) return 'הסיסמה חייבת להכיל לפחות 6 תווים'
   if (msg.includes('rate limit') || msg.includes('too many')) return 'יותר מדי ניסיונות. נסה שוב מאוחר יותר'
-  if (msg.includes('invalid') || msg.includes('email')) return 'שגיאה בפרטי ההרשמה'
   return `שגיאה: ${msg}`
 }
 
