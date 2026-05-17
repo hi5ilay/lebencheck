@@ -1,10 +1,16 @@
 import fs from 'fs'
 import path from 'path'
+import type { Metadata } from 'next'
 import type { PriceSnapshot } from '@/lib/types'
 import { getMockPrices } from '@/lib/fetchPrices'
-import HomeClient from '@/components/HomeClient'
+import HistoryClient from '@/components/HistoryClient'
 
 export const revalidate = 21600
+
+export const metadata: Metadata = {
+  title: 'היסטוריית מחירים — לבןצ\'ק',
+  description: 'מגמות מחירי לבן לאורך זמן בכל הרשתות',
+}
 
 function loadPrices(): PriceSnapshot {
   try {
@@ -27,15 +33,14 @@ function loadHistory(): Array<{ date: string; prices: Record<string, number> }> 
   }
 }
 
-export default function HomePage() {
-  const snapshot = loadPrices()
+export default function HistoryPage() {
   const history = loadHistory()
+  const snapshot = loadPrices()
 
   return (
-    <HomeClient
-      entries={snapshot.allEntries}
-      timestamp={snapshot.timestamp}
+    <HistoryClient
       history={history}
+      entries={snapshot.allEntries}
     />
   )
 }

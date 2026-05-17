@@ -1,0 +1,424 @@
+{
+  "history": [
+    {
+      "date": "2025-05-17",
+      "prices": {
+        "shufersal": 6.90,
+        "ramiLevy": 6.20,
+        "victory": 7.10,
+        "mega": 6.80,
+        "yeinotBitan": 7.30
+      }
+    },
+    {
+      "date": "2025-05-16",
+      "prices": {
+        "shufersal": 6.90,
+        "ramiLevy": 6.20,
+        "victory": 7.10,
+        "mega": 6.80,
+        "yeinotBitan": 7.30
+      }
+    },
+    {
+      "date": "2025-05-15",
+      "prices": {
+        "shufersal": 7.10,
+        "ramiLevy": 6.30,
+        "victory": 7.20,
+        "mega": 6.90,
+        "yeinotBitan": 7.50
+      }
+    },
+    {
+      "date": "2025-05-14",
+      "prices": {
+        "shufersal": 7.10,
+        "ramiLevy": 6.30,
+        "victory": 7.40,
+        "mega": 7.00,
+        "yeinotBitan": 7.50
+      }
+    },
+    {
+      "date": "2025-05-13",
+      "prices": {
+        "shufersal": 7.20,
+        "ramiLevy": 6.40,
+        "victory": 7.40,
+        "mega": 7.00,
+        "yeinotBitan": 7.60
+      }
+    },
+    {
+      "date": "2025-05-12",
+      "prices": {
+        "shufersal": 7.20,
+        "ramiLevy": 6.50,
+        "victory": 7.50,
+        "mega": 7.10,
+        "yeinotBitan": 7.70
+      }
+    },
+    {
+      "date": "2025-05-11",
+      "prices": {
+        "shufersal": 7.30,
+        "ramiLevy": 6.50,
+        "victory": 7.50,
+        "mega": 7.10,
+        "yeinotBitan": 7.70
+      }
+    },
+    {
+      "date": "2025-05-10",
+      "prices": {
+        "shufersal": 7.30,
+        "ramiLevy": 6.60,
+        "victory": 7.60,
+        "mega": 7.20,
+        "yeinotBitan": 7.80
+      }
+    },
+    {
+      "date": "2025-05-09",
+      "prices": {
+        "shufersal": 7.40,
+        "ramiLevy": 6.60,
+        "victory": 7.60,
+        "mega": 7.20,
+        "yeinotBitan": 7.90
+      }
+    },
+    {
+      "date": "2025-05-08",
+      "prices": {
+        "shufersal": 7.40,
+        "ramiLevy": 6.70,
+        "victory": 7.70,
+        "mega": 7.30,
+        "yeinotBitan": 7.90
+      }
+    },
+    {
+      "date": "2025-05-07",
+      "prices": {
+        "shufersal": 7.50,
+        "ramiLevy": 6.70,
+        "victory": 7.80,
+        "mega": 7.30,
+        "yeinotBitan": 8.00
+      }
+    },
+    {
+      "date": "2025-05-06",
+      "prices": {
+        "shufersal": 7.50,
+        "ramiLevy": 6.80,
+        "victory": 7.80,
+        "mega": 7.40,
+        "yeinotBitan": 8.00
+      }
+    },
+    {
+      "date": "2025-05-05",
+      "prices": {
+        "shufersal": 7.60,
+        "ramiLevy": 6.90,
+        "victory": 7.90,
+        "mega": 7.50,
+        "yeinotBitan": 8.10
+      }
+    },
+    {
+      "date": "2025-05-04",
+      "prices": {
+        "shufersal": 7.60,
+        "ramiLevy": 7.00,
+        "victory": 7.90,
+        "mega": 7.50,
+        "yeinotBitan": 8.10
+      }
+    },
+    {
+      "date": "2025-05-03",
+      "prices": {
+        "shufersal": 7.70,
+        "ramiLevy": 7.00,
+        "victory": 8.00,
+        "mega": 7.60,
+        "yeinotBitan": 8.20
+      }
+    },
+    {
+      "date": "2025-05-02",
+      "prices": {
+        "shufersal": 7.80,
+        "ramiLevy": 7.10,
+        "victory": 8.10,
+        "mega": 7.70,
+        "yeinotBitan": 8.30
+      }
+    },
+    {
+      "date": "2025-05-01",
+      "prices": {
+        "shufersal": 7.80,
+        "ramiLevy": 7.20,
+        "victory": 8.10,
+        "mega": 7.80,
+        "yeinotBitan": 8.30
+      }
+    },
+    {
+      "date": "2025-04-30",
+      "prices": {
+        "shufersal": 7.90,
+        "ramiLevy": 7.20,
+        "victory": 8.20,
+        "mega": 7.80,
+        "yeinotBitan": 8.40
+      }
+    },
+    {
+      "date": "2025-04-29",
+      "prices": {
+        "shufersal": 8.00,
+        "ramiLevy": 7.30,
+        "victory": 8.20,
+        "mega": 7.90,
+        "yeinotBitan": 8.50
+      }
+    },
+    {
+      "date": "2025-04-28",
+      "prices": {
+        "shufersal": 8.00,
+        "ramiLevy": 7.40,
+        "victory": 8.30,
+        "mega": 8.00,
+        "yeinotBitan": 8.50
+      }
+    },
+    {
+      "date": "2025-04-27",
+      "prices": {
+        "shufersal": 8.10,
+        "ramiLevy": 7.40,
+        "victory": 8.40,
+        "mega": 8.00,
+        "yeinotBitan": 8.60
+      }
+    },
+    {
+      "date": "2025-04-26",
+      "prices": {
+        "shufersal": 8.20,
+        "ramiLevy": 7.50,
+        "victory": 8.40,
+        "mega": 8.10,
+        "yeinotBitan": 8.70
+      }
+    },
+    {
+      "date": "2025-04-25",
+      "prices": {
+        "shufersal": 8.20,
+        "ramiLevy": 7.60,
+        "victory": 8.50,
+        "mega": 8.20,
+        "yeinotBitan": 8.70
+      }
+    },
+    {
+      "date": "2025-04-24",
+      "prices": {
+        "shufersal": 8.30,
+        "ramiLevy": 7.60,
+        "victory": 8.50,
+        "mega": 8.20,
+        "yeinotBitan": 8.80
+      }
+    },
+    {
+      "date": "2025-04-23",
+      "prices": {
+        "shufersal": 8.40,
+        "ramiLevy": 7.70,
+        "victory": 8.60,
+        "mega": 8.30,
+        "yeinotBitan": 8.90
+      }
+    },
+    {
+      "date": "2025-04-22",
+      "prices": {
+        "shufersal": 8.40,
+        "ramiLevy": 7.80,
+        "victory": 8.60,
+        "mega": 8.30,
+        "yeinotBitan": 8.90
+      }
+    },
+    {
+      "date": "2025-04-21",
+      "prices": {
+        "shufersal": 8.50,
+        "ramiLevy": 7.90,
+        "victory": 8.70,
+        "mega": 8.40,
+        "yeinotBitan": 9.00
+      }
+    },
+    {
+      "date": "2025-04-20",
+      "prices": {
+        "shufersal": 8.50,
+        "ramiLevy": 8.00,
+        "victory": 8.80,
+        "mega": 8.50,
+        "yeinotBitan": 9.00
+      }
+    },
+    {
+      "date": "2025-04-19",
+      "prices": {
+        "shufersal": 8.60,
+        "ramiLevy": 8.00,
+        "victory": 8.80,
+        "mega": 8.50,
+        "yeinotBitan": 9.10
+      }
+    },
+    {
+      "date": "2025-04-18",
+      "prices": {
+        "shufersal": 8.70,
+        "ramiLevy": 8.10,
+        "victory": 8.90,
+        "mega": 8.60,
+        "yeinotBitan": 9.20
+      }
+    },
+    {
+      "date": "2025-04-17",
+      "prices": {
+        "shufersal": 8.70,
+        "ramiLevy": 8.20,
+        "victory": 9.00,
+        "mega": 8.70,
+        "yeinotBitan": 9.20
+      }
+    },
+    {
+      "date": "2025-04-16",
+      "prices": {
+        "shufersal": 8.80,
+        "ramiLevy": 8.20,
+        "victory": 9.00,
+        "mega": 8.70,
+        "yeinotBitan": 9.30
+      }
+    },
+    {
+      "date": "2025-04-15",
+      "prices": {
+        "shufersal": 8.90,
+        "ramiLevy": 8.30,
+        "victory": 9.10,
+        "mega": 8.80,
+        "yeinotBitan": 9.40
+      }
+    },
+    {
+      "date": "2025-04-14",
+      "prices": {
+        "shufersal": 8.90,
+        "ramiLevy": 8.40,
+        "victory": 9.10,
+        "mega": 8.90,
+        "yeinotBitan": 9.40
+      }
+    },
+    {
+      "date": "2025-04-13",
+      "prices": {
+        "shufersal": 9.00,
+        "ramiLevy": 8.40,
+        "victory": 9.20,
+        "mega": 9.00,
+        "yeinotBitan": 9.50
+      }
+    },
+    {
+      "date": "2025-04-12",
+      "prices": {
+        "shufersal": 9.10,
+        "ramiLevy": 8.50,
+        "victory": 9.20,
+        "mega": 9.00,
+        "yeinotBitan": 9.60
+      }
+    },
+    {
+      "date": "2025-04-11",
+      "prices": {
+        "shufersal": 9.10,
+        "ramiLevy": 8.60,
+        "victory": 9.30,
+        "mega": 9.10,
+        "yeinotBitan": 9.60
+      }
+    },
+    {
+      "date": "2025-04-10",
+      "prices": {
+        "shufersal": 9.20,
+        "ramiLevy": 8.60,
+        "victory": 9.40,
+        "mega": 9.20,
+        "yeinotBitan": 9.70
+      }
+    },
+    {
+      "date": "2025-04-09",
+      "prices": {
+        "shufersal": 9.20,
+        "ramiLevy": 8.70,
+        "victory": 9.40,
+        "mega": 9.20,
+        "yeinotBitan": 9.80
+      }
+    },
+    {
+      "date": "2025-04-08",
+      "prices": {
+        "shufersal": 9.30,
+        "ramiLevy": 8.80,
+        "victory": 9.50,
+        "mega": 9.30,
+        "yeinotBitan": 9.80
+      }
+    },
+    {
+      "date": "2025-04-07",
+      "prices": {
+        "shufersal": 9.40,
+        "ramiLevy": 8.90,
+        "victory": 9.60,
+        "mega": 9.40,
+        "yeinotBitan": 9.90
+      }
+    },
+    {
+      "date": "2025-04-06",
+      "prices": {
+        "shufersal": 9.50,
+        "ramiLevy": 9.00,
+        "victory": 9.70,
+        "mega": 9.50,
+        "yeinotBitan": 10.00
+      }
+    }
+  ]
+}

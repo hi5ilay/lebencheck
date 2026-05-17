@@ -1,0 +1,1181 @@
+{
+  "timestamp": "2026-05-17T16:53:44.426Z",
+  "chains": [
+    {
+      "chainId": "shufersal",
+      "chainName": "שופרסל",
+      "entries": [
+        {
+          "product": {
+            "id": "gil-1-500",
+            "name": "לבן גיל 1%",
+            "brand": "גיל",
+            "fat": "1%",
+            "sizeMl": 500,
+            "displayName": "לבן גיל 1% 500מ\"ל"
+          },
+          "chain": "shufersal",
+          "chainName": "שופרסל",
+          "price": 4.9,
+          "pricePer100ml": 0.9800000000000001,
+          "updatedAt": "2026-05-17T16:53:44.426Z"
+        },
+        {
+          "product": {
+            "id": "gil-1-1000",
+            "name": "לבן גיל 1%",
+            "brand": "גיל",
+            "fat": "1%",
+            "sizeMl": 1000,
+            "displayName": "לבן גיל 1% 1 ליטר"
+          },
+          "chain": "shufersal",
+          "chainName": "שופרסל",
+          "price": 6.9,
+          "pricePer100ml": 0.6900000000000001,
+          "updatedAt": "2026-05-17T16:53:44.426Z"
+        },
+        {
+          "product": {
+            "id": "gil-1-1500",
+            "name": "לבן גיל 1%",
+            "brand": "גיל",
+            "fat": "1%",
+            "sizeMl": 1500,
+            "displayName": "לבן גיל 1% 1.5 ליטר"
+          },
+          "chain": "shufersal",
+          "chainName": "שופרסל",
+          "price": 9.9,
+          "pricePer100ml": 0.66,
+          "updatedAt": "2026-05-17T16:53:44.426Z"
+        },
+        {
+          "product": {
+            "id": "gil-1-3000",
+            "name": "לבן גיל 1%",
+            "brand": "גיל",
+            "fat": "1%",
+            "sizeMl": 3000,
+            "displayName": "לבן גיל 1% 3 ליטר"
+          },
+          "chain": "shufersal",
+          "chainName": "שופרסל",
+          "price": 16.9,
+          "pricePer100ml": 0.5633333333333334,
+          "updatedAt": "2026-05-17T16:53:44.426Z"
+        },
+        {
+          "product": {
+            "id": "gil-3-500",
+            "name": "לבן גיל 3%",
+            "brand": "גיל",
+            "fat": "3%",
+            "sizeMl": 500,
+            "displayName": "לבן גיל 3% 500מ\"ל"
+          },
+          "chain": "shufersal",
+          "chainName": "שופרסל",
+          "price": 5.2,
+          "pricePer100ml": 1.04,
+          "updatedAt": "2026-05-17T16:53:44.426Z"
+        },
+        {
+          "product": {
+            "id": "gil-3-1000",
+            "name": "לבן גיל 3%",
+            "brand": "גיל",
+            "fat": "3%",
+            "sizeMl": 1000,
+            "displayName": "לבן גיל 3% 1 ליטר"
+          },
+          "chain": "shufersal",
+          "chainName": "שופרסל",
+          "price": 7.5,
+          "pricePer100ml": 0.75,
+          "updatedAt": "2026-05-17T16:53:44.426Z"
+        },
+        {
+          "product": {
+            "id": "gil-3-1500",
+            "name": "לבן גיל 3%",
+            "brand": "גיל",
+            "fat": "3%",
+            "sizeMl": 1500,
+            "displayName": "לבן גיל 3% 1.5 ליטר"
+          },
+          "chain": "shufersal",
+          "chainName": "שופרסל",
+          "price": 10.9,
+          "pricePer100ml": 0.7266666666666667,
+          "updatedAt": "2026-05-17T16:53:44.426Z"
+        },
+        {
+          "product": {
+            "id": "gil-3-3000",
+            "name": "לבן גיל 3%",
+            "brand": "גיל",
+            "fat": "3%",
+            "sizeMl": 3000,
+            "displayName": "לבן גיל 3% 3 ליטר"
+          },
+          "chain": "shufersal",
+          "chainName": "שופרסל",
+          "price": 18.9,
+          "pricePer100ml": 0.6299999999999999,
+          "updatedAt": "2026-05-17T16:53:44.426Z"
+        },
+        {
+          "product": {
+            "id": "ashel-1-1000",
+            "name": "לבן אשל 1%",
+            "brand": "אשל",
+            "fat": "1%",
+            "sizeMl": 1000,
+            "displayName": "לבן אשל 1% 1 ליטר"
+          },
+          "chain": "shufersal",
+          "chainName": "שופרסל",
+          "price": 6.5,
+          "pricePer100ml": 0.65,
+          "updatedAt": "2026-05-17T16:53:44.426Z"
+        },
+        {
+          "product": {
+            "id": "ashel-3-1000",
+            "name": "לבן אשל 3%",
+            "brand": "אשל",
+            "fat": "3%",
+            "sizeMl": 1000,
+            "displayName": "לבן אשל 3% 1 ליטר"
+          },
+          "chain": "shufersal",
+          "chainName": "שופרסל",
+          "price": 7.2,
+          "pricePer100ml": 0.72,
+          "updatedAt": "2026-05-17T16:53:44.426Z"
+        },
+        {
+          "product": {
+            "id": "gil-1-500",
+            "name": "לבן גיל 1%",
+            "brand": "גיל",
+            "fat": "1%",
+            "sizeMl": 500,
+            "displayName": "לבן גיל 1% 500מ\"ל"
+          },
+          "chain": "shufersal",
+          "chainName": "שופרסל",
+          "price": 5.3,
+          "pricePer100ml": 1.06,
+          "storeCity": "אילת",
+          "updatedAt": "2026-05-17T16:53:44.426Z"
+        },
+        {
+          "product": {
+            "id": "gil-1-1000",
+            "name": "לבן גיל 1%",
+            "brand": "גיל",
+            "fat": "1%",
+            "sizeMl": 1000,
+            "displayName": "לבן גיל 1% 1 ליטר"
+          },
+          "chain": "shufersal",
+          "chainName": "שופרסל",
+          "price": 7.4,
+          "pricePer100ml": 0.74,
+          "storeCity": "אילת",
+          "updatedAt": "2026-05-17T16:53:44.426Z"
+        }
+      ]
+    },
+    {
+      "chainId": "ramiLevy",
+      "chainName": "רמי לוי",
+      "entries": [
+        {
+          "product": {
+            "id": "gil-1-500",
+            "name": "לבן גיל 1%",
+            "brand": "גיל",
+            "fat": "1%",
+            "sizeMl": 500,
+            "displayName": "לבן גיל 1% 500מ\"ל"
+          },
+          "chain": "ramiLevy",
+          "chainName": "רמי לוי",
+          "price": 4.5,
+          "pricePer100ml": 0.8999999999999999,
+          "updatedAt": "2026-05-17T16:53:44.426Z"
+        },
+        {
+          "product": {
+            "id": "gil-1-1000",
+            "name": "לבן גיל 1%",
+            "brand": "גיל",
+            "fat": "1%",
+            "sizeMl": 1000,
+            "displayName": "לבן גיל 1% 1 ליטר"
+          },
+          "chain": "ramiLevy",
+          "chainName": "רמי לוי",
+          "price": 6.2,
+          "pricePer100ml": 0.62,
+          "updatedAt": "2026-05-17T16:53:44.426Z"
+        },
+        {
+          "product": {
+            "id": "gil-1-1500",
+            "name": "לבן גיל 1%",
+            "brand": "גיל",
+            "fat": "1%",
+            "sizeMl": 1500,
+            "displayName": "לבן גיל 1% 1.5 ליטר"
+          },
+          "chain": "ramiLevy",
+          "chainName": "רמי לוי",
+          "price": 9.1,
+          "pricePer100ml": 0.6066666666666667,
+          "updatedAt": "2026-05-17T16:53:44.426Z"
+        },
+        {
+          "product": {
+            "id": "gil-1-3000",
+            "name": "לבן גיל 1%",
+            "brand": "גיל",
+            "fat": "1%",
+            "sizeMl": 3000,
+            "displayName": "לבן גיל 1% 3 ליטר"
+          },
+          "chain": "ramiLevy",
+          "chainName": "רמי לוי",
+          "price": 15.5,
+          "pricePer100ml": 0.5166666666666666,
+          "updatedAt": "2026-05-17T16:53:44.426Z"
+        },
+        {
+          "product": {
+            "id": "gil-3-500",
+            "name": "לבן גיל 3%",
+            "brand": "גיל",
+            "fat": "3%",
+            "sizeMl": 500,
+            "displayName": "לבן גיל 3% 500מ\"ל"
+          },
+          "chain": "ramiLevy",
+          "chainName": "רמי לוי",
+          "price": 4.9,
+          "pricePer100ml": 0.9800000000000001,
+          "updatedAt": "2026-05-17T16:53:44.426Z"
+        },
+        {
+          "product": {
+            "id": "gil-3-1000",
+            "name": "לבן גיל 3%",
+            "brand": "גיל",
+            "fat": "3%",
+            "sizeMl": 1000,
+            "displayName": "לבן גיל 3% 1 ליטר"
+          },
+          "chain": "ramiLevy",
+          "chainName": "רמי לוי",
+          "price": 6.9,
+          "pricePer100ml": 0.6900000000000001,
+          "updatedAt": "2026-05-17T16:53:44.426Z"
+        },
+        {
+          "product": {
+            "id": "gil-3-1500",
+            "name": "לבן גיל 3%",
+            "brand": "גיל",
+            "fat": "3%",
+            "sizeMl": 1500,
+            "displayName": "לבן גיל 3% 1.5 ליטר"
+          },
+          "chain": "ramiLevy",
+          "chainName": "רמי לוי",
+          "price": 10.2,
+          "pricePer100ml": 0.6799999999999999,
+          "updatedAt": "2026-05-17T16:53:44.426Z"
+        },
+        {
+          "product": {
+            "id": "gil-3-3000",
+            "name": "לבן גיל 3%",
+            "brand": "גיל",
+            "fat": "3%",
+            "sizeMl": 3000,
+            "displayName": "לבן גיל 3% 3 ליטר"
+          },
+          "chain": "ramiLevy",
+          "chainName": "רמי לוי",
+          "price": 17.9,
+          "pricePer100ml": 0.5966666666666666,
+          "updatedAt": "2026-05-17T16:53:44.426Z"
+        },
+        {
+          "product": {
+            "id": "ashel-1-1000",
+            "name": "לבן אשל 1%",
+            "brand": "אשל",
+            "fat": "1%",
+            "sizeMl": 1000,
+            "displayName": "לבן אשל 1% 1 ליטר"
+          },
+          "chain": "ramiLevy",
+          "chainName": "רמי לוי",
+          "price": 5.9,
+          "pricePer100ml": 0.5900000000000001,
+          "updatedAt": "2026-05-17T16:53:44.426Z"
+        },
+        {
+          "product": {
+            "id": "ashel-3-1000",
+            "name": "לבן אשל 3%",
+            "brand": "אשל",
+            "fat": "3%",
+            "sizeMl": 1000,
+            "displayName": "לבן אשל 3% 1 ליטר"
+          },
+          "chain": "ramiLevy",
+          "chainName": "רמי לוי",
+          "price": 6.8,
+          "pricePer100ml": 0.6799999999999999,
+          "updatedAt": "2026-05-17T16:53:44.426Z"
+        }
+      ]
+    },
+    {
+      "chainId": "victory",
+      "chainName": "ויקטורי",
+      "entries": [
+        {
+          "product": {
+            "id": "gil-1-500",
+            "name": "לבן גיל 1%",
+            "brand": "גיל",
+            "fat": "1%",
+            "sizeMl": 500,
+            "displayName": "לבן גיל 1% 500מ\"ל"
+          },
+          "chain": "victory",
+          "chainName": "ויקטורי",
+          "price": 5.1,
+          "pricePer100ml": 1.0199999999999998,
+          "updatedAt": "2026-05-17T16:53:44.426Z"
+        },
+        {
+          "product": {
+            "id": "gil-1-1000",
+            "name": "לבן גיל 1%",
+            "brand": "גיל",
+            "fat": "1%",
+            "sizeMl": 1000,
+            "displayName": "לבן גיל 1% 1 ליטר"
+          },
+          "chain": "victory",
+          "chainName": "ויקטורי",
+          "price": 7.1,
+          "pricePer100ml": 0.71,
+          "updatedAt": "2026-05-17T16:53:44.426Z"
+        },
+        {
+          "product": {
+            "id": "gil-1-1500",
+            "name": "לבן גיל 1%",
+            "brand": "גיל",
+            "fat": "1%",
+            "sizeMl": 1500,
+            "displayName": "לבן גיל 1% 1.5 ליטר"
+          },
+          "chain": "victory",
+          "chainName": "ויקטורי",
+          "price": 10.5,
+          "pricePer100ml": 0.7000000000000001,
+          "updatedAt": "2026-05-17T16:53:44.426Z"
+        },
+        {
+          "product": {
+            "id": "gil-3-1000",
+            "name": "לבן גיל 3%",
+            "brand": "גיל",
+            "fat": "3%",
+            "sizeMl": 1000,
+            "displayName": "לבן גיל 3% 1 ליטר"
+          },
+          "chain": "victory",
+          "chainName": "ויקטורי",
+          "price": 7.9,
+          "pricePer100ml": 0.79,
+          "updatedAt": "2026-05-17T16:53:44.426Z"
+        },
+        {
+          "product": {
+            "id": "ashel-1-1000",
+            "name": "לבן אשל 1%",
+            "brand": "אשל",
+            "fat": "1%",
+            "sizeMl": 1000,
+            "displayName": "לבן אשל 1% 1 ליטר"
+          },
+          "chain": "victory",
+          "chainName": "ויקטורי",
+          "price": 6.7,
+          "pricePer100ml": 0.67,
+          "updatedAt": "2026-05-17T16:53:44.426Z"
+        },
+        {
+          "product": {
+            "id": "ashel-3-1000",
+            "name": "לבן אשל 3%",
+            "brand": "אשל",
+            "fat": "3%",
+            "sizeMl": 1000,
+            "displayName": "לבן אשל 3% 1 ליטר"
+          },
+          "chain": "victory",
+          "chainName": "ויקטורי",
+          "price": 7.5,
+          "pricePer100ml": 0.75,
+          "updatedAt": "2026-05-17T16:53:44.426Z"
+        }
+      ]
+    },
+    {
+      "chainId": "mega",
+      "chainName": "מגה",
+      "entries": [
+        {
+          "product": {
+            "id": "gil-1-500",
+            "name": "לבן גיל 1%",
+            "brand": "גיל",
+            "fat": "1%",
+            "sizeMl": 500,
+            "displayName": "לבן גיל 1% 500מ\"ל"
+          },
+          "chain": "mega",
+          "chainName": "מגה",
+          "price": 4.8,
+          "pricePer100ml": 0.96,
+          "updatedAt": "2026-05-17T16:53:44.426Z"
+        },
+        {
+          "product": {
+            "id": "gil-1-1000",
+            "name": "לבן גיל 1%",
+            "brand": "גיל",
+            "fat": "1%",
+            "sizeMl": 1000,
+            "displayName": "לבן גיל 1% 1 ליטר"
+          },
+          "chain": "mega",
+          "chainName": "מגה",
+          "price": 6.8,
+          "pricePer100ml": 0.6799999999999999,
+          "updatedAt": "2026-05-17T16:53:44.426Z"
+        },
+        {
+          "product": {
+            "id": "gil-3-1000",
+            "name": "לבן גיל 3%",
+            "brand": "גיל",
+            "fat": "3%",
+            "sizeMl": 1000,
+            "displayName": "לבן גיל 3% 1 ליטר"
+          },
+          "chain": "mega",
+          "chainName": "מגה",
+          "price": 7.3,
+          "pricePer100ml": 0.73,
+          "updatedAt": "2026-05-17T16:53:44.426Z"
+        },
+        {
+          "product": {
+            "id": "ashel-1-1000",
+            "name": "לבן אשל 1%",
+            "brand": "אשל",
+            "fat": "1%",
+            "sizeMl": 1000,
+            "displayName": "לבן אשל 1% 1 ליטר"
+          },
+          "chain": "mega",
+          "chainName": "מגה",
+          "price": 6.3,
+          "pricePer100ml": 0.63,
+          "updatedAt": "2026-05-17T16:53:44.426Z"
+        },
+        {
+          "product": {
+            "id": "ashel-3-1000",
+            "name": "לבן אשל 3%",
+            "brand": "אשל",
+            "fat": "3%",
+            "sizeMl": 1000,
+            "displayName": "לבן אשל 3% 1 ליטר"
+          },
+          "chain": "mega",
+          "chainName": "מגה",
+          "price": 7.1,
+          "pricePer100ml": 0.71,
+          "updatedAt": "2026-05-17T16:53:44.426Z"
+        }
+      ]
+    },
+    {
+      "chainId": "yeinotBitan",
+      "chainName": "יינות ביתן",
+      "entries": [
+        {
+          "product": {
+            "id": "gil-1-500",
+            "name": "לבן גיל 1%",
+            "brand": "גיל",
+            "fat": "1%",
+            "sizeMl": 500,
+            "displayName": "לבן גיל 1% 500מ\"ל"
+          },
+          "chain": "yeinotBitan",
+          "chainName": "יינות ביתן",
+          "price": 5.3,
+          "pricePer100ml": 1.06,
+          "updatedAt": "2026-05-17T16:53:44.426Z"
+        },
+        {
+          "product": {
+            "id": "gil-1-1000",
+            "name": "לבן גיל 1%",
+            "brand": "גיל",
+            "fat": "1%",
+            "sizeMl": 1000,
+            "displayName": "לבן גיל 1% 1 ליטר"
+          },
+          "chain": "yeinotBitan",
+          "chainName": "יינות ביתן",
+          "price": 7.3,
+          "pricePer100ml": 0.73,
+          "updatedAt": "2026-05-17T16:53:44.426Z"
+        },
+        {
+          "product": {
+            "id": "gil-3-1000",
+            "name": "לבן גיל 3%",
+            "brand": "גיל",
+            "fat": "3%",
+            "sizeMl": 1000,
+            "displayName": "לבן גיל 3% 1 ליטר"
+          },
+          "chain": "yeinotBitan",
+          "chainName": "יינות ביתן",
+          "price": 8.1,
+          "pricePer100ml": 0.8099999999999999,
+          "updatedAt": "2026-05-17T16:53:44.426Z"
+        },
+        {
+          "product": {
+            "id": "ashel-1-1000",
+            "name": "לבן אשל 1%",
+            "brand": "אשל",
+            "fat": "1%",
+            "sizeMl": 1000,
+            "displayName": "לבן אשל 1% 1 ליטר"
+          },
+          "chain": "yeinotBitan",
+          "chainName": "יינות ביתן",
+          "price": 7,
+          "pricePer100ml": 0.7000000000000001,
+          "updatedAt": "2026-05-17T16:53:44.426Z"
+        },
+        {
+          "product": {
+            "id": "ashel-3-1000",
+            "name": "לבן אשל 3%",
+            "brand": "אשל",
+            "fat": "3%",
+            "sizeMl": 1000,
+            "displayName": "לבן אשל 3% 1 ליטר"
+          },
+          "chain": "yeinotBitan",
+          "chainName": "יינות ביתן",
+          "price": 7.8,
+          "pricePer100ml": 0.7799999999999999,
+          "updatedAt": "2026-05-17T16:53:44.426Z"
+        }
+      ]
+    }
+  ],
+  "allEntries": [
+    {
+      "product": {
+        "id": "gil-1-500",
+        "name": "לבן גיל 1%",
+        "brand": "גיל",
+        "fat": "1%",
+        "sizeMl": 500,
+        "displayName": "לבן גיל 1% 500מ\"ל"
+      },
+      "chain": "shufersal",
+      "chainName": "שופרסל",
+      "price": 4.9,
+      "pricePer100ml": 0.9800000000000001,
+      "updatedAt": "2026-05-17T16:53:44.426Z"
+    },
+    {
+      "product": {
+        "id": "gil-1-1000",
+        "name": "לבן גיל 1%",
+        "brand": "גיל",
+        "fat": "1%",
+        "sizeMl": 1000,
+        "displayName": "לבן גיל 1% 1 ליטר"
+      },
+      "chain": "shufersal",
+      "chainName": "שופרסל",
+      "price": 6.9,
+      "pricePer100ml": 0.6900000000000001,
+      "updatedAt": "2026-05-17T16:53:44.426Z"
+    },
+    {
+      "product": {
+        "id": "gil-1-1500",
+        "name": "לבן גיל 1%",
+        "brand": "גיל",
+        "fat": "1%",
+        "sizeMl": 1500,
+        "displayName": "לבן גיל 1% 1.5 ליטר"
+      },
+      "chain": "shufersal",
+      "chainName": "שופרסל",
+      "price": 9.9,
+      "pricePer100ml": 0.66,
+      "updatedAt": "2026-05-17T16:53:44.426Z"
+    },
+    {
+      "product": {
+        "id": "gil-1-3000",
+        "name": "לבן גיל 1%",
+        "brand": "גיל",
+        "fat": "1%",
+        "sizeMl": 3000,
+        "displayName": "לבן גיל 1% 3 ליטר"
+      },
+      "chain": "shufersal",
+      "chainName": "שופרסל",
+      "price": 16.9,
+      "pricePer100ml": 0.5633333333333334,
+      "updatedAt": "2026-05-17T16:53:44.426Z"
+    },
+    {
+      "product": {
+        "id": "gil-3-500",
+        "name": "לבן גיל 3%",
+        "brand": "גיל",
+        "fat": "3%",
+        "sizeMl": 500,
+        "displayName": "לבן גיל 3% 500מ\"ל"
+      },
+      "chain": "shufersal",
+      "chainName": "שופרסל",
+      "price": 5.2,
+      "pricePer100ml": 1.04,
+      "updatedAt": "2026-05-17T16:53:44.426Z"
+    },
+    {
+      "product": {
+        "id": "gil-3-1000",
+        "name": "לבן גיל 3%",
+        "brand": "גיל",
+        "fat": "3%",
+        "sizeMl": 1000,
+        "displayName": "לבן גיל 3% 1 ליטר"
+      },
+      "chain": "shufersal",
+      "chainName": "שופרסל",
+      "price": 7.5,
+      "pricePer100ml": 0.75,
+      "updatedAt": "2026-05-17T16:53:44.426Z"
+    },
+    {
+      "product": {
+        "id": "gil-3-1500",
+        "name": "לבן גיל 3%",
+        "brand": "גיל",
+        "fat": "3%",
+        "sizeMl": 1500,
+        "displayName": "לבן גיל 3% 1.5 ליטר"
+      },
+      "chain": "shufersal",
+      "chainName": "שופרסל",
+      "price": 10.9,
+      "pricePer100ml": 0.7266666666666667,
+      "updatedAt": "2026-05-17T16:53:44.426Z"
+    },
+    {
+      "product": {
+        "id": "gil-3-3000",
+        "name": "לבן גיל 3%",
+        "brand": "גיל",
+        "fat": "3%",
+        "sizeMl": 3000,
+        "displayName": "לבן גיל 3% 3 ליטר"
+      },
+      "chain": "shufersal",
+      "chainName": "שופרסל",
+      "price": 18.9,
+      "pricePer100ml": 0.6299999999999999,
+      "updatedAt": "2026-05-17T16:53:44.426Z"
+    },
+    {
+      "product": {
+        "id": "ashel-1-1000",
+        "name": "לבן אשל 1%",
+        "brand": "אשל",
+        "fat": "1%",
+        "sizeMl": 1000,
+        "displayName": "לבן אשל 1% 1 ליטר"
+      },
+      "chain": "shufersal",
+      "chainName": "שופרסל",
+      "price": 6.5,
+      "pricePer100ml": 0.65,
+      "updatedAt": "2026-05-17T16:53:44.426Z"
+    },
+    {
+      "product": {
+        "id": "ashel-3-1000",
+        "name": "לבן אשל 3%",
+        "brand": "אשל",
+        "fat": "3%",
+        "sizeMl": 1000,
+        "displayName": "לבן אשל 3% 1 ליטר"
+      },
+      "chain": "shufersal",
+      "chainName": "שופרסל",
+      "price": 7.2,
+      "pricePer100ml": 0.72,
+      "updatedAt": "2026-05-17T16:53:44.426Z"
+    },
+    {
+      "product": {
+        "id": "gil-1-500",
+        "name": "לבן גיל 1%",
+        "brand": "גיל",
+        "fat": "1%",
+        "sizeMl": 500,
+        "displayName": "לבן גיל 1% 500מ\"ל"
+      },
+      "chain": "shufersal",
+      "chainName": "שופרסל",
+      "price": 5.3,
+      "pricePer100ml": 1.06,
+      "storeCity": "אילת",
+      "updatedAt": "2026-05-17T16:53:44.426Z"
+    },
+    {
+      "product": {
+        "id": "gil-1-1000",
+        "name": "לבן גיל 1%",
+        "brand": "גיל",
+        "fat": "1%",
+        "sizeMl": 1000,
+        "displayName": "לבן גיל 1% 1 ליטר"
+      },
+      "chain": "shufersal",
+      "chainName": "שופרסל",
+      "price": 7.4,
+      "pricePer100ml": 0.74,
+      "storeCity": "אילת",
+      "updatedAt": "2026-05-17T16:53:44.426Z"
+    },
+    {
+      "product": {
+        "id": "gil-1-500",
+        "name": "לבן גיל 1%",
+        "brand": "גיל",
+        "fat": "1%",
+        "sizeMl": 500,
+        "displayName": "לבן גיל 1% 500מ\"ל"
+      },
+      "chain": "ramiLevy",
+      "chainName": "רמי לוי",
+      "price": 4.5,
+      "pricePer100ml": 0.8999999999999999,
+      "updatedAt": "2026-05-17T16:53:44.426Z"
+    },
+    {
+      "product": {
+        "id": "gil-1-1000",
+        "name": "לבן גיל 1%",
+        "brand": "גיל",
+        "fat": "1%",
+        "sizeMl": 1000,
+        "displayName": "לבן גיל 1% 1 ליטר"
+      },
+      "chain": "ramiLevy",
+      "chainName": "רמי לוי",
+      "price": 6.2,
+      "pricePer100ml": 0.62,
+      "updatedAt": "2026-05-17T16:53:44.426Z"
+    },
+    {
+      "product": {
+        "id": "gil-1-1500",
+        "name": "לבן גיל 1%",
+        "brand": "גיל",
+        "fat": "1%",
+        "sizeMl": 1500,
+        "displayName": "לבן גיל 1% 1.5 ליטר"
+      },
+      "chain": "ramiLevy",
+      "chainName": "רמי לוי",
+      "price": 9.1,
+      "pricePer100ml": 0.6066666666666667,
+      "updatedAt": "2026-05-17T16:53:44.426Z"
+    },
+    {
+      "product": {
+        "id": "gil-1-3000",
+        "name": "לבן גיל 1%",
+        "brand": "גיל",
+        "fat": "1%",
+        "sizeMl": 3000,
+        "displayName": "לבן גיל 1% 3 ליטר"
+      },
+      "chain": "ramiLevy",
+      "chainName": "רמי לוי",
+      "price": 15.5,
+      "pricePer100ml": 0.5166666666666666,
+      "updatedAt": "2026-05-17T16:53:44.426Z"
+    },
+    {
+      "product": {
+        "id": "gil-3-500",
+        "name": "לבן גיל 3%",
+        "brand": "גיל",
+        "fat": "3%",
+        "sizeMl": 500,
+        "displayName": "לבן גיל 3% 500מ\"ל"
+      },
+      "chain": "ramiLevy",
+      "chainName": "רמי לוי",
+      "price": 4.9,
+      "pricePer100ml": 0.9800000000000001,
+      "updatedAt": "2026-05-17T16:53:44.426Z"
+    },
+    {
+      "product": {
+        "id": "gil-3-1000",
+        "name": "לבן גיל 3%",
+        "brand": "גיל",
+        "fat": "3%",
+        "sizeMl": 1000,
+        "displayName": "לבן גיל 3% 1 ליטר"
+      },
+      "chain": "ramiLevy",
+      "chainName": "רמי לוי",
+      "price": 6.9,
+      "pricePer100ml": 0.6900000000000001,
+      "updatedAt": "2026-05-17T16:53:44.426Z"
+    },
+    {
+      "product": {
+        "id": "gil-3-1500",
+        "name": "לבן גיל 3%",
+        "brand": "גיל",
+        "fat": "3%",
+        "sizeMl": 1500,
+        "displayName": "לבן גיל 3% 1.5 ליטר"
+      },
+      "chain": "ramiLevy",
+      "chainName": "רמי לוי",
+      "price": 10.2,
+      "pricePer100ml": 0.6799999999999999,
+      "updatedAt": "2026-05-17T16:53:44.426Z"
+    },
+    {
+      "product": {
+        "id": "gil-3-3000",
+        "name": "לבן גיל 3%",
+        "brand": "גיל",
+        "fat": "3%",
+        "sizeMl": 3000,
+        "displayName": "לבן גיל 3% 3 ליטר"
+      },
+      "chain": "ramiLevy",
+      "chainName": "רמי לוי",
+      "price": 17.9,
+      "pricePer100ml": 0.5966666666666666,
+      "updatedAt": "2026-05-17T16:53:44.426Z"
+    },
+    {
+      "product": {
+        "id": "ashel-1-1000",
+        "name": "לבן אשל 1%",
+        "brand": "אשל",
+        "fat": "1%",
+        "sizeMl": 1000,
+        "displayName": "לבן אשל 1% 1 ליטר"
+      },
+      "chain": "ramiLevy",
+      "chainName": "רמי לוי",
+      "price": 5.9,
+      "pricePer100ml": 0.5900000000000001,
+      "updatedAt": "2026-05-17T16:53:44.426Z"
+    },
+    {
+      "product": {
+        "id": "ashel-3-1000",
+        "name": "לבן אשל 3%",
+        "brand": "אשל",
+        "fat": "3%",
+        "sizeMl": 1000,
+        "displayName": "לבן אשל 3% 1 ליטר"
+      },
+      "chain": "ramiLevy",
+      "chainName": "רמי לוי",
+      "price": 6.8,
+      "pricePer100ml": 0.6799999999999999,
+      "updatedAt": "2026-05-17T16:53:44.426Z"
+    },
+    {
+      "product": {
+        "id": "gil-1-500",
+        "name": "לבן גיל 1%",
+        "brand": "גיל",
+        "fat": "1%",
+        "sizeMl": 500,
+        "displayName": "לבן גיל 1% 500מ\"ל"
+      },
+      "chain": "victory",
+      "chainName": "ויקטורי",
+      "price": 5.1,
+      "pricePer100ml": 1.0199999999999998,
+      "updatedAt": "2026-05-17T16:53:44.426Z"
+    },
+    {
+      "product": {
+        "id": "gil-1-1000",
+        "name": "לבן גיל 1%",
+        "brand": "גיל",
+        "fat": "1%",
+        "sizeMl": 1000,
+        "displayName": "לבן גיל 1% 1 ליטר"
+      },
+      "chain": "victory",
+      "chainName": "ויקטורי",
+      "price": 7.1,
+      "pricePer100ml": 0.71,
+      "updatedAt": "2026-05-17T16:53:44.426Z"
+    },
+    {
+      "product": {
+        "id": "gil-1-1500",
+        "name": "לבן גיל 1%",
+        "brand": "גיל",
+        "fat": "1%",
+        "sizeMl": 1500,
+        "displayName": "לבן גיל 1% 1.5 ליטר"
+      },
+      "chain": "victory",
+      "chainName": "ויקטורי",
+      "price": 10.5,
+      "pricePer100ml": 0.7000000000000001,
+      "updatedAt": "2026-05-17T16:53:44.426Z"
+    },
+    {
+      "product": {
+        "id": "gil-3-1000",
+        "name": "לבן גיל 3%",
+        "brand": "גיל",
+        "fat": "3%",
+        "sizeMl": 1000,
+        "displayName": "לבן גיל 3% 1 ליטר"
+      },
+      "chain": "victory",
+      "chainName": "ויקטורי",
+      "price": 7.9,
+      "pricePer100ml": 0.79,
+      "updatedAt": "2026-05-17T16:53:44.426Z"
+    },
+    {
+      "product": {
+        "id": "ashel-1-1000",
+        "name": "לבן אשל 1%",
+        "brand": "אשל",
+        "fat": "1%",
+        "sizeMl": 1000,
+        "displayName": "לבן אשל 1% 1 ליטר"
+      },
+      "chain": "victory",
+      "chainName": "ויקטורי",
+      "price": 6.7,
+      "pricePer100ml": 0.67,
+      "updatedAt": "2026-05-17T16:53:44.426Z"
+    },
+    {
+      "product": {
+        "id": "ashel-3-1000",
+        "name": "לבן אשל 3%",
+        "brand": "אשל",
+        "fat": "3%",
+        "sizeMl": 1000,
+        "displayName": "לבן אשל 3% 1 ליטר"
+      },
+      "chain": "victory",
+      "chainName": "ויקטורי",
+      "price": 7.5,
+      "pricePer100ml": 0.75,
+      "updatedAt": "2026-05-17T16:53:44.426Z"
+    },
+    {
+      "product": {
+        "id": "gil-1-500",
+        "name": "לבן גיל 1%",
+        "brand": "גיל",
+        "fat": "1%",
+        "sizeMl": 500,
+        "displayName": "לבן גיל 1% 500מ\"ל"
+      },
+      "chain": "mega",
+      "chainName": "מגה",
+      "price": 4.8,
+      "pricePer100ml": 0.96,
+      "updatedAt": "2026-05-17T16:53:44.426Z"
+    },
+    {
+      "product": {
+        "id": "gil-1-1000",
+        "name": "לבן גיל 1%",
+        "brand": "גיל",
+        "fat": "1%",
+        "sizeMl": 1000,
+        "displayName": "לבן גיל 1% 1 ליטר"
+      },
+      "chain": "mega",
+      "chainName": "מגה",
+      "price": 6.8,
+      "pricePer100ml": 0.6799999999999999,
+      "updatedAt": "2026-05-17T16:53:44.426Z"
+    },
+    {
+      "product": {
+        "id": "gil-3-1000",
+        "name": "לבן גיל 3%",
+        "brand": "גיל",
+        "fat": "3%",
+        "sizeMl": 1000,
+        "displayName": "לבן גיל 3% 1 ליטר"
+      },
+      "chain": "mega",
+      "chainName": "מגה",
+      "price": 7.3,
+      "pricePer100ml": 0.73,
+      "updatedAt": "2026-05-17T16:53:44.426Z"
+    },
+    {
+      "product": {
+        "id": "ashel-1-1000",
+        "name": "לבן אשל 1%",
+        "brand": "אשל",
+        "fat": "1%",
+        "sizeMl": 1000,
+        "displayName": "לבן אשל 1% 1 ליטר"
+      },
+      "chain": "mega",
+      "chainName": "מגה",
+      "price": 6.3,
+      "pricePer100ml": 0.63,
+      "updatedAt": "2026-05-17T16:53:44.426Z"
+    },
+    {
+      "product": {
+        "id": "ashel-3-1000",
+        "name": "לבן אשל 3%",
+        "brand": "אשל",
+        "fat": "3%",
+        "sizeMl": 1000,
+        "displayName": "לבן אשל 3% 1 ליטר"
+      },
+      "chain": "mega",
+      "chainName": "מגה",
+      "price": 7.1,
+      "pricePer100ml": 0.71,
+      "updatedAt": "2026-05-17T16:53:44.426Z"
+    },
+    {
+      "product": {
+        "id": "gil-1-500",
+        "name": "לבן גיל 1%",
+        "brand": "גיל",
+        "fat": "1%",
+        "sizeMl": 500,
+        "displayName": "לבן גיל 1% 500מ\"ל"
+      },
+      "chain": "yeinotBitan",
+      "chainName": "יינות ביתן",
+      "price": 5.3,
+      "pricePer100ml": 1.06,
+      "updatedAt": "2026-05-17T16:53:44.426Z"
+    },
+    {
+      "product": {
+        "id": "gil-1-1000",
+        "name": "לבן גיל 1%",
+        "brand": "גיל",
+        "fat": "1%",
+        "sizeMl": 1000,
+        "displayName": "לבן גיל 1% 1 ליטר"
+      },
+      "chain": "yeinotBitan",
+      "chainName": "יינות ביתן",
+      "price": 7.3,
+      "pricePer100ml": 0.73,
+      "updatedAt": "2026-05-17T16:53:44.426Z"
+    },
+    {
+      "product": {
+        "id": "gil-3-1000",
+        "name": "לבן גיל 3%",
+        "brand": "גיל",
+        "fat": "3%",
+        "sizeMl": 1000,
+        "displayName": "לבן גיל 3% 1 ליטר"
+      },
+      "chain": "yeinotBitan",
+      "chainName": "יינות ביתן",
+      "price": 8.1,
+      "pricePer100ml": 0.8099999999999999,
+      "updatedAt": "2026-05-17T16:53:44.426Z"
+    },
+    {
+      "product": {
+        "id": "ashel-1-1000",
+        "name": "לבן אשל 1%",
+        "brand": "אשל",
+        "fat": "1%",
+        "sizeMl": 1000,
+        "displayName": "לבן אשל 1% 1 ליטר"
+      },
+      "chain": "yeinotBitan",
+      "chainName": "יינות ביתן",
+      "price": 7,
+      "pricePer100ml": 0.7000000000000001,
+      "updatedAt": "2026-05-17T16:53:44.426Z"
+    },
+    {
+      "product": {
+        "id": "ashel-3-1000",
+        "name": "לבן אשל 3%",
+        "brand": "אשל",
+        "fat": "3%",
+        "sizeMl": 1000,
+        "displayName": "לבן אשל 3% 1 ליטר"
+      },
+      "chain": "yeinotBitan",
+      "chainName": "יינות ביתן",
+      "price": 7.8,
+      "pricePer100ml": 0.7799999999999999,
+      "updatedAt": "2026-05-17T16:53:44.426Z"
+    }
+  ]
+}
